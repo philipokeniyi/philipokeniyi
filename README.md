@@ -270,7 +270,6 @@ const philip = {
 ## 💼 What I'm Working On
 
 - 🔭 Currently building full-stack web applications with **MERN stack**
-- 🌱 Learning **GraphQL**, **Docker**, and **AWS**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, or **Web Development**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
@@ -283,8 +282,9 @@ const philip = {
   
   [![Email](https://img.shields.io/badge/Email-okeniyiphilip%40gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okeniyiphilip@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-philipokeniyi-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philipokeniyi)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-okeniyi-368528222/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://philip-okeniyi.vercel.app)
+  
   
 </div>
 
