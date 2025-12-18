@@ -235,35 +235,10 @@ const philip = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=philipokeniyi&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=philipokeniyi&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=philipokeniyi&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=8&exclude_repo=react-english-main" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipokeniyi&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=8&exclude_repo=react-english-main" />
-  </picture>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=philipokeniyi&theme=react&hide_border=true&background=1F222E&stroke=667eea&ring=764ba2&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=c9d1d9" />
-</div>
-
-<div align="center">
+ter">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=philipokeniyi&custom_title=Contribution%20Graph&bg_color=1F222E&color=667eea&line=764ba2&point=c9d1d9&area_color=764ba2&area=true&hide_border=true" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=philipokeniyi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=3" />
-    <img src="https://github-profile-trophy.vercel.app/?username=philipokeniyi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
-  </picture>
-</div>
 
 ---
 
