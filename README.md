@@ -233,15 +233,6 @@ const philip = {
 
 ---
 
-## 📊 GitHub Stats
-
-ter">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=philipokeniyi&custom_title=Contribution%20Graph&bg_color=1F222E&color=667eea&line=764ba2&point=c9d1d9&area_color=764ba2&area=true&hide_border=true" />
-</div>
-
-
----
-
 ## 💼 What I'm Working On
 
 - 🔭 Currently building full-stack web applications with **MERN stack**
