@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Philip%20Okeniyi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Expert&descAlignY=58&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Philip%20Okeniyi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Expert&descAlignY=58&descAlign=50" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;React+%7C+Node.js+%7C+MongoDB+Expert;Passionate+About+Clean+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Building+Full-Stack+Apps;React+%2B+Node.js+Expert;Clean+Code+Advocate;Always+Learning)](https://git.io/typing-svg)
   
 </div>
 
@@ -20,7 +20,6 @@
 
 ```javascript
 const philip = {
-  pronouns: "He" | "Him",
   location: "Nigeria 🇳🇬",
   role: "Full-Stack Developer",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
@@ -237,16 +236,22 @@ const philip = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipokeniyi&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipokeniyi&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=8&exclude_repo=react-english-main" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=philipokeniyi&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=philipokeniyi&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=philipokeniyi&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=8&exclude_repo=react-english-main" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipokeniyi&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=8&exclude_repo=react-english-main" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=philipokeniyi&theme=react&hide_border=true&background=1F222E&stroke=667eea&ring=764ba2&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=c9d1d9" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=philipokeniyi&theme=react&hide_border=true&background=1F222E&stroke=667eea&ring=764ba2&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=philipokeniyi&custom_title=Contribution%20Graph&bg_color=1F222E&color=667eea&line=764ba2&point=c9d1d9&area_color=764ba2&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=philipokeniyi&custom_title=Contribution%20Graph&bg_color=1F222E&color=667eea&line=764ba2&point=c9d1d9&area_color=764ba2&area=true&hide_border=true" />
 </div>
 
 ---
@@ -254,7 +259,10 @@ const philip = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=philipokeniyi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=philipokeniyi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=philipokeniyi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  </picture>
 </div>
 
 ---
@@ -296,6 +304,6 @@ const philip = {
   
   ### ⭐ Show some love by starring some repositories!
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
   
 </div>
